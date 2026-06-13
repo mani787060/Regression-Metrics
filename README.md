@@ -116,12 +116,6 @@ The dataset is used to generate predictions and evaluate the performance of regr
 
 ---
 
-## 🏁 Conclusion
-
-Regression metrics play a crucial role in evaluating machine learning models. By understanding MAE, MSE, RMSE, and R² Score, we can better assess model performance and make informed decisions when selecting and improving regression algorithms.
-
----
-
 ## 💻 Technologies Used
 
 * Python
@@ -130,3 +124,9 @@ Regression metrics play a crucial role in evaluating machine learning models. By
 * Matplotlib
 * Seaborn
 * Scikit-Learn
+
+---
+
+## 🏁 Conclusion
+
+Regression metrics play a crucial role in evaluating machine learning models. By understanding MAE, MSE, RMSE, and R² Score, we can better assess model performance and make informed decisions when selecting and improving regression algorithms.
