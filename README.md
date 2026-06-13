@@ -8,7 +8,7 @@ Understanding these metrics is essential because a model is not judged only by i
 
 ---
 
-## 🎯 Objectives
+## 🎯 Objectives 
 
 * Understand the importance of regression evaluation metrics
 * Learn how prediction errors are measured
